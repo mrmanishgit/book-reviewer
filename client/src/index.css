@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower:wght@300;400&display=auto");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  margin-top: 2vmin;
+  text-align: right;    
+}
+
+body {
+  font-family: "Indie Flower", sans-serif;
+}
+
+footer {
+  margin-top: 5vmin;
+  text-align: right;    
+}
